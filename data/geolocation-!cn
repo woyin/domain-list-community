@@ -1,4 +1,4 @@
-# This list contains domains that don't have access point in China. This is opposite to geolocation-cn.
+# This list contains domains that don't have access point in China mainland. This is opposite to geolocation-cn.
 
 # TLDs (Top Level Domains) used outside China mainland
 include:tld-!cn
@@ -10,12 +10,14 @@ include:taboola
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
 include:category-anticensorship
 
-# Art & Design
+# Art & Design & Photography
 include:artstation
 include:dribbble
 include:dyna
+include:flickr
 include:fonts
 include:fontsinuse
+include:gettyimages
 include:glyphs
 include:jiyukobo
 include:monotype
@@ -33,6 +35,7 @@ include:tesla
 include:volvo
 
 # Bank & Finance
+include:dowjones
 include:mastercard
 include:paypal
 include:softbank
@@ -52,6 +55,7 @@ include:stackpath
 include:category-cas
 
 # Communications
+include:clubhouse
 include:discord
 include:freenode
 include:line
@@ -63,26 +67,7 @@ include:telegram
 include:category-cryptocurrency
 
 # E-commerce
-include:adidas
-include:bestbuy
-include:booking
-include:costco
-include:craigslist
-include:dmm
-include:ebay
-include:farfetch
-include:gfashion
-include:gucci
-include:hm
-include:homedepot
-include:ikea
-include:miniso
-include:muji
-include:nike
-include:nordstrom
-include:shopee
-include:target
-include:walmart
+include:category-ecommerce
 
 # E-learning & Knowledge & Press & Scholar & Science & Technology
 include:betterexplained
@@ -112,26 +97,34 @@ include:w3schools
 # Entertainment & Games & Music & Podcasts & Videos
 include:category-entertainment
 
-# File host & Image host
+# File & Image & Video hosting
 include:0x0
 include:dropbox
 include:gfycat
 include:imgur
+include:rumble
 include:streamable
 
-# Forums
+# Forums & Social network
 include:4chan
 include:5ch
 include:avsforum
 include:dcard
 include:doom9
+include:gab
+include:hkgolden
 include:lihkg
+include:mewe
+include:parler
 include:pincong
+include:pixnet
 include:quora
 include:reddit
+include:safechat
 
 # Media & News & Press
 include:category-media
+include:pugpig
 
 # Organizations
 include:category-orgs
@@ -179,6 +172,7 @@ include:kindle4rss
 include:kodi
 include:liberapay
 include:linguee
+include:localizejs
 include:madshi
 include:mapbox
 include:mega
@@ -188,7 +182,6 @@ include:notion
 include:ok
 include:opencollective
 include:osdn
-include:parler
 include:pastebin
 include:patreon
 include:picsee
@@ -198,11 +191,14 @@ include:quip
 include:reabble
 include:rebrandly
 include:reurl
+include:rsshub
 include:sb
+include:setapp
 include:sharethis
 include:shopify
 include:shorturl
 include:sourceforge
+include:squareup
 include:startpage
 include:steemit
 include:svp
@@ -216,6 +212,7 @@ include:vercel
 include:webflow
 include:wix
 include:wordpress
+include:zendesk
 include:zeplin
 include:zoho
 include:zoom
@@ -245,6 +242,7 @@ include:huanghuagang
 include:mcdonalds
 include:rarbg
 include:rb
+include:reagroup
 include:starbucks
 include:tsquare
 include:windy
