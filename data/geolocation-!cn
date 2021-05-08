@@ -44,9 +44,11 @@ include:visa
 
 # CDN companies & Services
 include:akamai
+include:cdn77
 include:cloudflare
 include:fastly
 include:imgix
+include:limelight
 include:pagecdn
 include:quantil
 include:stackpath
@@ -58,7 +60,9 @@ include:category-cas
 include:clubhouse
 include:discord
 include:freenode
+include:intercom
 include:line
+include:matrix
 include:signal
 include:slack
 include:telegram
@@ -87,6 +91,7 @@ include:laracasts
 include:masterclass
 include:mzed
 include:oreilly
+include:pearson
 include:sitepoint
 include:skillshare
 include:ted
@@ -106,21 +111,7 @@ include:rumble
 include:streamable
 
 # Forums & Social network
-include:4chan
-include:5ch
-include:avsforum
-include:dcard
-include:doom9
-include:gab
-include:hkgolden
-include:lihkg
-include:mewe
-include:parler
-include:pincong
-include:pixnet
-include:quora
-include:reddit
-include:safechat
+include:category-forums
 
 # Media & News & Press
 include:category-media
@@ -208,6 +199,7 @@ include:tidelift
 include:tinyurl
 include:trello
 include:tumblr
+include:tutanota
 include:vercel
 include:webflow
 include:wix

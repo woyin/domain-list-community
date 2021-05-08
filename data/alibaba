@@ -16,6 +16,7 @@ include:aliyun
 include:dingtalk
 include:eleme
 include:teambition
+include:uc
 include:umeng
 
 25pp.com
@@ -110,6 +111,10 @@ zuodao.com
 # AliExpress
 aliexpress.com
 aliexpress.ru
+
+# 阿里云盘
+alicloudccp.com
+aliyundrive.com
 
 # 神马搜索
 sm.cn

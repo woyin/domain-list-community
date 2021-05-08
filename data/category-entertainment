@@ -6,6 +6,7 @@ include:attwatchtv
 include:bahamut
 include:bandcamp
 include:category-games
+include:dazn
 include:deviantart
 include:disney
 include:hbo
@@ -23,7 +24,9 @@ include:sling
 include:sonypictures
 include:soundcloud
 include:spotify
+include:tidal
 include:tiktok
+include:tver
 include:twitch
 include:vimeo
 include:visualarts
@@ -35,6 +38,8 @@ blubrry.com
 castro.fm
 fireside.fm
 internationalsaimoe.com
+joox.com
+linetv.tw
 litv.tv
 megaphone.fm
 moov.hk
